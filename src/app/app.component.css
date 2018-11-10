@@ -1,0 +1,63 @@
+h1 {
+	font-size:40px; 
+	color:#673ab7;
+	font-weight: bold;
+	text-align:center;
+}
+
+mat-form-field {
+  width : 100%;
+  font-size: 20px;
+}
+
+/* Table */
+
+.table {
+  width: 100%;
+}
+
+.mat-card-title{
+  color:#673ab7;
+}
+
+.mat-header-cell {
+  color: #673ab7;
+  padding: 30px;
+  font-weight: bold;
+}
+
+.mat-cell {
+  color: #673ab7;
+  padding: 30px;
+}
+
+.mat-cell:hover{
+  color:white;
+  background:#673ab7;
+}
+
+.mat-row:hover{
+  background:#d8ceea;
+}
+
+/* Column widths */
+
+.mat-column-title {
+  width: 100px;
+}
+
+.mat-column-release_date {
+  width: 150px;
+}
+
+.mat-column-director {
+  width: 100px;
+}
+
+.mat-column-producer {
+  width: 100px;
+}
+
+.mat-column-opening_crawl {
+  flex: auto;
+}
