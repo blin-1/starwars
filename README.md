@@ -1,7 +1,7 @@
 # Starwars
 
 This project is a very simple Angular 6 app with Google Material theme<br>
-It may be viewed at https://starwars-angular.herokuapp.com/ <br>
+It may be viewed at https://lucasfilms.herokuapp.com/ <br>
 
 ## Dependencies
 
